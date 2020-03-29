@@ -1,5 +1,4 @@
 // Stepper motor run code with a4988 driver
-// by Superb
 
 const int stepPin = 3; // define pin for step
 const int dirPin = 4;  // define pin for direction
