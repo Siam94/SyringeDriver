@@ -1,2 +1,9 @@
 Component list:
 
+3D-printed components, 3D-files provided
+Nema 17 Stepper Motor
+A4988 H-bridge driver
+Arduino Uno board
+2x Linear shafts and bearings
+Flex coupler
+Fully threaded rod and corresponding nut (1/4 inch by 28)
